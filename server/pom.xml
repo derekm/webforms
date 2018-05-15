@@ -29,6 +29,11 @@
       <artifactId>webforms-formstack</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
+    <dependency>
+      <groupId>ws.ament.hammock</groupId>
+      <artifactId>swagger</artifactId>
+      <version>${hammock.version}</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
