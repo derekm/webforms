@@ -71,7 +71,7 @@
     </dependencies>
   </dependencyManagement>
   <properties>
-    <hammock.version>2.1</hammock.version>
+    <hammock.version>2.2-SNAPSHOT</hammock.version>
     <jersey.version>2.26</jersey.version>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>

@@ -34,6 +34,11 @@
       <artifactId>swagger</artifactId>
       <version>${hammock.version}</version>
     </dependency>
+    <dependency>
+      <groupId>ws.ament.hammock</groupId>
+      <artifactId>swagger-ui</artifactId>
+      <version>${hammock.version}</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
